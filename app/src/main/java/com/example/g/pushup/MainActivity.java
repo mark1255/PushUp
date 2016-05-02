@@ -51,6 +51,8 @@ public class MainActivity extends AppCompatActivity {
     }private void TestUpLoad()
    {
         int i = 1 + 1;
+       int b = i + 5;
+       int c = i * b;
     }
 
 }
